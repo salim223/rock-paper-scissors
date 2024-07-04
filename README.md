@@ -1,4 +1,4 @@
-# ![alt text](image.png)Rock-Paper-Scissors page 
+# <img src="image.png" alt="alt text" width="100"/> Rock-Paper-Scissors page
 
 A rock-paper-scissors game built with UI.
 
